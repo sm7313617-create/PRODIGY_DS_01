@@ -93,9 +93,13 @@ PRODIGY_DS_01/
 
 ## Key Insights
 
-- Shows how global population is distributed across economic income levels
-- Linear and log scales reveal different patterns in the data
-- Color-coded visualizations make comparisons intuitive and accessible
+- Lower middle and upper middle income groups hold the largest shares of the global population in 2024.
+- The linear histogram is heavily right-skewed: many countries have relatively small populations while a few have very large populations.
+- The log-scale histogram reveals clearer structure across orders of magnitude, making patterns among small and mid-sized countries visible.
+
+Short AI-style summary:
+
+"I analyzed global population data for 2024. The middle-income groups (lower and upper) account for most people worldwide. When looking at raw counts, the distribution is skewed toward many low-population countries and a few very large ones. Transforming values using a log scale uncovers patterns that are otherwise hidden, especially among smaller nations."
 
 ## Author
 
