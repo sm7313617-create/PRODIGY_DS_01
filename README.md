@@ -103,7 +103,7 @@ Short AI-style summary:
 
 ## Author
 
-Created for PRODIGY Data Science Internship - Task 1
+Created by Sayan Mondal for PRODIGY Data Science Internship - Task 1
 
 ## License
 
